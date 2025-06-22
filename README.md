@@ -25,6 +25,7 @@
 
 ## 📁 Project Structure
 
+```
 portable-ac-controller/
 ├── .vscode/                 # VSCode settings
 ├── hardware/                # Hardware resources
@@ -56,6 +57,7 @@ portable-ac-controller/
 ├── LICENSE                # MIT license
 ├── platformio.ini         # PlatformIO build config
 └── README.md              # Project overview
+```
 
 ---
 
