@@ -1,6 +1,6 @@
 # ⚡ Portable AC Controller
 
-[![PlatformIO CI](https://github.com/dondfx/portable-ac-controller/actions/workflows/build.yml/badge.svg)](https://github.com/dondfx/portable-ac-controller/actions/workflows/build.yml)
+[![PlatformIO CI](https://github.com/dondfx/portable-ac-controller/actions/workflows/ci.yml/badge.svg?branch=main)
 
 **Embedded firmware for a portable AC controller** built on an Arduino Nano. Features include user-selectable **manual** and **automatic** operation, SSD1306 OLED display, LM35 temperature sensing, and PID-based temperature regulation—all packaged in a compact, ready-to-build design.
 
