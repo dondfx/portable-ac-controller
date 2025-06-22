@@ -55,7 +55,7 @@ Examples of meaningful contributions:
 - 📊 Enhancements to OLED display (e.g. show setpoint, ambient temp, mode)
 - 💡 EEPROM persistence for settings
 - ⚙️ PID tuning refinements
-- 📐 Hardware pinout corrections or Proteus schematics
+- 📐 Hardware pinout corrections or additional schematics
 - 📄 Documentation (README, wiring tables, diagrams)
 
 ❗ Things to Avoid
