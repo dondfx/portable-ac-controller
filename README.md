@@ -2,7 +2,7 @@
 
 **Embedded firmware for a portable AC controller** built on an Arduino Nano. Features include user-selectable **manual** and **automatic** operation, SSD1306 OLED display, LM35 temperature sensing, and PID-based temperature regulation—all packaged in a compact, ready-to-build design.
 
-![Final Rendering of the Controller](/hardware/images/FinalRender.jpg)
+![Final Rendering of the Controller](/hardware/images/FinalRender.JPG)
 
 ---
 
