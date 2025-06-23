@@ -9,7 +9,7 @@
 
 // Digital Outputs
 #define EVAPORATOR_BLOWER_PIN 6
-#define CONDENSOR_BLOWER_PIN 7
+#define CONDENSOR_BLOWER_PIN  7
 #define COMPRESSOR_PIN        5
 #define INDICATOR             8
 

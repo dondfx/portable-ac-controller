@@ -4,7 +4,7 @@
 #include <Arduino.h>
 
 //
-// Initializes the OLED display (SSD1306, 128x32 over I2C).
+// Initializes the OLED display (SSD1306, 128x64 over I2C).
 // Must be called once in setup().
 //
 void initDisplay();
